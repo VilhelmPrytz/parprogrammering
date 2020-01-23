@@ -8,7 +8,7 @@ def fizz_buzz(num):
     if num % 5 == 0:
         return "Buzz"
     
-    return num
+    return str(num)
 
 
 print(fizz_buzz(3))
