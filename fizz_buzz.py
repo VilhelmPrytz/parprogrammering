@@ -15,5 +15,3 @@ print(fizz_buzz(3))
 print(fizz_buzz(5))
 print(fizz_buzz(15))
 print(fizz_buzz(4))
-
-
